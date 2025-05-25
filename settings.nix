@@ -3188,6 +3188,7 @@
 
       (plain "layout" [
         (leaf "gaps" cfg.layout.gaps)
+        (leaf "background-color" cfg.layout.background-color)
         (plain "struts" [
           (leaf "left" cfg.layout.struts.left)
           (leaf "right" cfg.layout.struts.right)
